@@ -111,7 +111,3 @@ Predator:
 - [Pygame 2.x](https://www.pygame.org/)
 
 ---
-
-## 📄 License
-
-MIT
