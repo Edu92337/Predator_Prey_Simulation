@@ -1,4 +1,4 @@
-# 🌿 Predator-Prey Simulation
+#  Predator-Prey Simulation
 
 A particle-based ecosystem simulation built with **Python** and **Pygame**, implementing emergent Lotka-Volterra dynamics through simple agent rules.
 
@@ -6,13 +6,13 @@ A particle-based ecosystem simulation built with **Python** and **Pygame**, impl
 
 ---
 
-## 📖 Overview
+##  Overview
 
 This simulation models a predator-prey ecosystem where blue **prey** particles and red **predator** particles interact in real time. Behaviors like flocking, hunting, fleeing, reproduction, and starvation emerge naturally from local rules — no global coordination needed.
 
 ---
 
-## ✨ Features
+##  Features
 
 - **Prey (blue)**
   - Flock toward nearby prey
@@ -40,7 +40,7 @@ This simulation models a predator-prey ecosystem where blue **prey** particles a
 
 ---
 
-## 🗂️ Project Structure
+##  Project Structure
 
 ```
 .
@@ -51,7 +51,7 @@ This simulation models a predator-prey ecosystem where blue **prey** particles a
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 
@@ -73,7 +73,7 @@ Prey: 72  Predators: 11
 
 ---
 
-## ⚙️ Configuration
+##  Configuration
 
 Key constants can be tweaked at the top of each file:
 
@@ -88,7 +88,7 @@ Key constants can be tweaked at the top of each file:
 
 ---
 
-## 🧠 Behavioral Rules Summary
+##  Behavioral Rules Summary
 
 ```
 Prey:
@@ -105,7 +105,7 @@ Predator:
 
 ---
 
-## 📦 Dependencies
+##  Dependencies
 
 - [Python 3.8+](https://www.python.org/)
 - [Pygame 2.x](https://www.pygame.org/)
